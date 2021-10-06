@@ -24,3 +24,10 @@ int main(){
     int pos = linearSearch(a,n,key);
     cout <<pos;
 }
+/*
+Input: 
+5
+25 68 654 54 64
+54
+Output:
+3
