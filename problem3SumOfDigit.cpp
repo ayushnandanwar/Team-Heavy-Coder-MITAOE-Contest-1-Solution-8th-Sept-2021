@@ -17,3 +17,8 @@ int main(){
     }
     cout <<sum;
 }
+/*
+Input:
+1524 
+Output:
+12
