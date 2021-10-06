@@ -21,3 +21,8 @@ int main(){
     }
     cout <<s;
 }
+/*
+Input:
+Mitaoe
+Output:
+MiTaOe
